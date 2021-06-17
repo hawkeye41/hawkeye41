@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hawkeye41
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Next js
-- 💞️ I’m looking to collaborate on web dev
+- 💞️ I’m looking to collaborate on web dev project
 - 📫 How to reach me 2019kucp1085@gmail.com
 
 <!---
